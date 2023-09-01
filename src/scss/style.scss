@@ -1,0 +1,34 @@
+/*!
+ * Mafalda do Canto website
+ *
+ * Copyright 2023 Ricardo do Canto
+ *
+ * Licensed under MIT (https://github.com/EnduranceCode/mafaldadocanto-website/blob/master/LICENSE)
+ *
+ * The CSS of this website is based on the Bulma CSS Framework (https: //bulma.io/)
+ */
+
+@charset "utf-8";
+
+/* Utilities */
+@import 'bulma/sass/utilities/initial-variables';
+@import 'bulma/sass/utilities/functions';
+@import 'bulma/sass/utilities/derived-variables';
+@import 'bulma/sass/utilities/mixins';
+@import 'bulma/sass/utilities/controls';
+@import 'bulma/sass/utilities/extends';
+
+/* Base  */
+@import 'bulma/sass/base/minireset';
+@import 'bulma/sass/base/generic';
+@import 'base/base.scss';
+
+/* Elements */
+@import 'bulma/sass/elements/container';
+@import 'bulma/sass/elements/image';
+/* Components */
+@import 'bulma/sass/components/navbar';
+
+/* Helpers */
+@import 'bulma/sass/helpers/color';
+@import 'bulma/sass/helpers/typography';

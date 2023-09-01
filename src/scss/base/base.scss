@@ -1,0 +1,23 @@
+/*!
+ * Mafalda do Canto website
+ *
+ * Copyright 2023 Ricardo do Canto
+ *
+ * Licensed under MIT (https://github.com/EnduranceCode/mafaldadocanto-website/blob/master/LICENSE)
+ *
+ * The CSS of this website is based on the Bulma CSS Framework (https: //bulma.io/)
+ */
+ 
+ @charset "utf-8";
+
+.fullscreen-bkg {
+  background-attachment: fixed;
+  background-image: url(../img/mafalda-do-canto-body-image.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+}
