@@ -1,6 +1,6 @@
 {
   "name": "mafaldadocanto-website",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Website for Mafalda do Canto, ballerina and student",
   "main": "index.js",
   "scripts": {
